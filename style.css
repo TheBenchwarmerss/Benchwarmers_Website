@@ -60,7 +60,7 @@ nav a {
 .avatar {
   width: 100%;
   aspect-ratio: 1 / 1;
-  background: #cfc7bd;
+  /*background: #cfc7bd; */
   margin-bottom: 1rem;
 }
 
