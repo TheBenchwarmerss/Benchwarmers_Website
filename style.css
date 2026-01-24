@@ -58,10 +58,9 @@ nav a {
 }
 
 .avatar {
-  width: 100%;
-  aspect-ratio: 1 / 1;
-  /*background: #cfc7bd; */
-  margin-bottom: 1rem;
+  background-image: url(Images/mannix.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 .profile h3 {
