@@ -29,6 +29,7 @@ body {
 .logo {
   display: flex;
   align-items: center;
+  display: block;
 }
 
 .logo img {
@@ -63,6 +64,7 @@ nav a {
   overflow: hidden;
   background: #cfc7bd;
   border-radius: 12px;
+  margin-bottom: 1rem;
 }
 
 .avatar img {
